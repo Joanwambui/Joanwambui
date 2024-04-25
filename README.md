@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Joan Wambui</h1>
-<h3 align="center">From crunching numbers with a statistical flair to engineering insights through data, always learning and innovating at the speed of thought. - </h3>
+<h3 align="center">From crunching numbers with a statistical flair to engineering insights through data, always learning and innovating at the speed of thought.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joanwambui&label=Profile%20views&color=0e75b6&style=flat" alt="joanwambui" /> </p>
