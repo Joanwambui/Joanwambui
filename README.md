@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Joan Wambui</h1>
-<h3 align="center">The human version of a spreadsheet, constantly organizing, analyzing and making sense of numbers.</h3>
+<h3 align="center">I am a Creative Thinker, and Fast Learner with a background in Statistics. Specializing in Data Analytics and BI, Data Engineering, and Data Science</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joanwambui&label=Profile%20views&color=0e75b6&style=flat" alt="joanwambui" /> </p>
