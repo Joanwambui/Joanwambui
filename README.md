@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Everything Data!**
 
-- 📫 How to reach me **wambuimungai.wm@gmail.com**
+- 📫 How to reach me: **wambuimungai.wm@gmail.com**
 
 - ⚡ Fun fact **I'm always game for adventure.**
 
