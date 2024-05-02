@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **wambuimungai.wm@gmail.com**
 
-- ⚡ Fun fact: **Analyzing data, exploring trails!**
+- ⚡ **Analyzing data, exploring trails!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
