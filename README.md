@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joanwambui&label=Profile%20views&color=0e75b6&style=flat" alt="joanwambui" /> </p>
 
-- 💬 **Everything Data!**
+- 💬 **Everything Data!!**
 
 - 📫 How to reach me: **wambuimungai.wm@gmail.com**
 
