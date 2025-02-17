@@ -30,6 +30,6 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
 
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Joanwambui&theme=dark&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=490&card_height=190" alt="GitHub Streak" /></a>
+<p align="left">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Joanwambui&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
 </p>
