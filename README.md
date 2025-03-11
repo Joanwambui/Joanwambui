@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joanwambui&label=Profile%20views&color=0e75b6&style=flat" alt="joanwambui" /> </p>
 
-- 💬 **Your Friend in Data & Insights😃!!**
+- 💬 Data is messy, unpredictable, and full of surprises—but that’s what makes it exciting. I love bringing structure to the chaos, building pipelines that flow seamlessly, and uncovering insights hidden beneath the surface. Every challenge is a story waiting to be told, and I’m here to write it in code.
 
 - 📫 How to reach me: **wambuimungai.wm@gmail.com**
 
