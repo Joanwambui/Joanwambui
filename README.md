@@ -1,6 +1,6 @@
 <h1 align="center"> Hi👋, I'm Joan Wambui </h1>
 
-<h3 align="center"> Debugged and deployed, Broken and fixed, dreamt and building - one line of code at a time, turning data into stories and chaos into symphony</h3>
+<h3 align="center"> Debugged and deployed, Broken and fixed - one line of code at a time, turning data into stories and chaos into symphony</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joanwambui&label=Profile%20views&color=0e75b6&style=flat" alt="joanwambui" /> </p>
 
