@@ -4,8 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joanwambui&label=Profile%20views&color=0e75b6&style=flat" alt="joanwambui" /> </p>
 
-- 💬 **Data can be messy, unpredictable, even a little dramatic — and I love every bit of it.**
-  
+💬 **Data can be messy, unpredictable, even a little dramatic — and I love every bit of it.**                                                                                    
 Code, queries, and dashboards — that’s my playground.
 From structured chaos to structured data — every problem is just a puzzle waiting to be solved (with a splash of coffee and a dash of code).
 
