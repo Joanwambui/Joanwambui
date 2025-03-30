@@ -4,12 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joanwambui&label=Profile%20views&color=0e75b6&style=flat" alt="joanwambui" /> </p>
 
-- 💬 Data doesn’t scare me — unpredictability is part of the adventure.
-I thrive where others flinch: wrangling wild datasets, untangling gnarly code, and building pipelines that actually flow. From structured chaos to structured data — every problem is just a puzzle waiting to be solved (with a splash of coffee and a dash of code).
+- 💬 **Data can be messy, unpredictable, even a little dramatic — and I love every bit of it.**
+Code, queries, and dashboards — that’s my playground.
+From structured chaos to structured data — every problem is just a puzzle waiting to be solved (with a splash of coffee and a dash of code).
 
 - 📫 How to reach me: **wambuimungai.wm@gmail.com**
 
-- ⚡ **Currently:**
+⚡ **Currently:**
 - Analyzing data
 - Breaking things (then fixing them better)
 - Hiking new trails — digital and literal
