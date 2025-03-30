@@ -6,7 +6,7 @@
 
 💬 **Data can be messy, unpredictable, even a little dramatic — and I love every bit of it.**                                                                                    
 Code, queries, and dashboards — that’s my playground.
-From structured chaos to structured data — every problem is just a puzzle waiting to be solved (with a splash of coffee and a dash of code).
+From structured chaos to structured data, I thrive on making logic not look like a stepchild — well-written, purposeful, and impossible to side-eye in code review.
 
 📫 How to reach me: **wambuimungai.wm@gmail.com**
 
