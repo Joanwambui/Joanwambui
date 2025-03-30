@@ -13,7 +13,7 @@ From structured chaos to structured data, I thrive on making logic not look like
 ⚡ **Currently:**
 - Analyzing data
 - Breaking things (then fixing them better)
-- Hiking new trails — digital and literal
+- Discovering new trails — digital and literal
 
 
 <h3 align="left">Connect with me:</h3>
