@@ -1,14 +1,19 @@
 <h1 align="center"> Hi👋, I'm Joan Wambui </h1>
 
-<h3 align="center"> Debugged and deployed, Broken and fixed - one line of code at a time, turning data into stories and chaos into symphony</h3>
+<h3 align="center"> Turning bugs into features and chaos into clean code — one line at a time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joanwambui&label=Profile%20views&color=0e75b6&style=flat" alt="joanwambui" /> </p>
 
-- 💬 Data is messy, unpredictable, and full of surprises—but that’s what makes it exciting. I love bringing structure to the chaos, building pipelines that flow seamlessly, and uncovering insights hidden beneath the surface. Every challenge is a story waiting to be told, and I’m here to write it in code.
+- 💬 Data doesn’t scare me — unpredictability is part of the adventure.
+I thrive where others flinch: wrangling wild datasets, untangling gnarly code, and building pipelines that actually flow. From structured chaos to structured data — every problem is just a puzzle waiting to be solved (with a splash of coffee and a dash of code).
 
 - 📫 How to reach me: **wambuimungai.wm@gmail.com**
 
-- ⚡ **Analyzing data, exploring trails!**
+- ⚡ **Currently:**
+- Analyzing data
+- Breaking things (then fixing them better)
+- Hiking new trails — digital and literal
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
