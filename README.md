@@ -8,7 +8,7 @@
 Code, queries, and dashboards — that’s my playground.
 From structured chaos to structured data — every problem is just a puzzle waiting to be solved (with a splash of coffee and a dash of code).
 
-- 📫 How to reach me: **wambuimungai.wm@gmail.com**
+📫 How to reach me: **wambuimungai.wm@gmail.com**
 
 ⚡ **Currently:**
 - Analyzing data
