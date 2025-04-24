@@ -1,6 +1,5 @@
 <h1 align="center"> Hi👋, I'm Joan Wambui </h1>
 
-<h3 align="center"> Turning bugs into features and chaos into clean code — one line at a time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joanwambui&label=Profile%20views&color=0e75b6&style=flat" alt="joanwambui" /> </p>
 
