@@ -1,6 +1,5 @@
 <h1 align="center"> Hi👋, I'm Joan Wambui </h1>
 
-![Personality Badge](https://img.shields.io/badge/personality-Strategic%20•%20Clean%20Code%20•%20INTJ-blueviolet?style=for-the-badge)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joanwambui&label=Profile%20views&color=0e75b6&style=flat" alt="joanwambui" /> </p>
 
